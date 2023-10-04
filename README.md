@@ -1,4 +1,4 @@
-# Image-classification---CNN
+# Image-classification - ANN & CNN
 
 ## Required Libraries
     => tensorflow
